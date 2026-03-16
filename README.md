@@ -34,13 +34,12 @@
 
 ### 📊 My GitHub Stats
 
-<div align="center" style="display:flex;flex-direction:column;align-items:center;gap:16px;width:100%;max-width:640px;">
-<img src="https://streak-stats.demolab.com/?user=ditramadia&theme=highcontrast" alt="Streak" style="width:100%;max-width:520px" />
-<div style="display:flex;flex-wrap:wrap;gap:16px;width:100%;">
-<img src="https://github-readme-stats.vercel.app/api?username=ditramadia&show_icons=true&theme=dark&bg_color=000000&border_color=ffffff&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Stats" style="width:55.5%;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ditramadia&layout=compact&theme=dark&bg_color=000000&border_color=ffffff&title_color=ffffff&text_color=ffffff" alt="Top Languages" style="width:41.5%;"  />
-</div>
-</div>
+<img src="https://streak-stats.demolab.com/?user=ditramadia&theme=highcontrast" alt="Streak" height="150" />
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ditramadia&show_icons=true&theme=dark&bg_color=000000&border_color=ffffff&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ditramadia&layout=compact&theme=dark&bg_color=000000&border_color=ffffff&title_color=ffffff&text_color=ffffff" alt="Top Languages" height="150" />
+</p>
 
 <br />
 
