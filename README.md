@@ -26,7 +26,7 @@ A Software Engineer, building projects for the giggles 😤
 
 🏢 Full-Stack Software Engineer @ **[Joynix](https://joynix.id/)**.
 
-🚧 Working on a private project, a Chrome Extensions - details when it ships
+🚧 Working on a private project, a Chrome extension - details when it ships
 
 ## Stack
 
