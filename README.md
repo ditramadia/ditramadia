@@ -22,15 +22,11 @@ A Software Engineer, building projects for the giggles 😤
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⢸⡏⢸⣿⡇⠀⠈⠙⣿⣿⣿⠰⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
----
-
 ## Now
 
 🏢 Full-Stack Software Engineer @ **[Joynix](https://joynix.id/)**.
 
 🚧 Working on a private project, a Chrome Extensions - details when it ships
-
----
 
 ## Stack
 
@@ -55,8 +51,6 @@ A Software Engineer, building projects for the giggles 😤
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
 <!-- ## Featured
 
 🐴 **[Horse Tinder](https://github.com/ditramadia/horse-tinder)**: Tinder, but for horses. Donkeys are not allowed.
@@ -66,4 +60,3 @@ A Software Engineer, building projects for the giggles 😤
 ## Reach Me
 
 [Email](mailto:ditraamadia@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ditra-amadia)
-
